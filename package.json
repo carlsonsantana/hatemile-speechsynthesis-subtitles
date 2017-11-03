@@ -1,0 +1,23 @@
+{
+  "name": "hatemile-speechsynthesis-subtitles",
+  "version": "1.0.0",
+  "description": "Show subtitles for SpeechSynthesis speak.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlsonsantana/hatemile-speechsynthesis-subtitles.git"
+  },
+  "keywords": [
+    "speechsynthesis",
+    "subtitles",
+    "deaf"
+  ],
+  "author": "Carlson Santana Cruz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/carlsonsantana/hatemile-speechsynthesis-subtitles/issues"
+  },
+  "homepage": "https://github.com/carlsonsantana/hatemile-speechsynthesis-subtitles#readme"
+}
